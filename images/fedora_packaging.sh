@@ -57,6 +57,7 @@ INSTALL_PACKAGES=(\
     findutils
     fuse3
     fuse3-devel
+    fuse-sshfs
     gawk
     gcc
     gh

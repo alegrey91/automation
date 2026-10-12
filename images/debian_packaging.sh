@@ -109,6 +109,7 @@ INSTALL_PACKAGES=(\
     skopeo
     slirp4netns
     socat
+    sshfs
     libsqlite3-0
     libsqlite3-dev
     systemd-container
